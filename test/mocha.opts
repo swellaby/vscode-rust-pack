@@ -1,0 +1,5 @@
+--ui tdd
+--timeout 75
+-R mocha-multi
+--reporter-options spec=-,xunit=.testresults/unit/xunit.xml
+./test/**/*.js

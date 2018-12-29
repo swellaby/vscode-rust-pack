@@ -1,0 +1,13 @@
+.vscode/**
+.vscode-test/**
+.github/
+.vscode/
+.testresults/
+node_modules/
+test/
+.editorconfig
+.eslintignore
+.eslintrc.js
+.gitattributes
+.gitignore
+package-lock.json

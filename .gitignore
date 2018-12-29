@@ -1,0 +1,8 @@
+node_modules/
+.testresults/
+*.tar*
+*.tgz*
+.ntvs_analysis.dat*
+npm-debug*
+.publish/
+**/*.vsix

@@ -1,0 +1,5 @@
+.testresults/
+.vscode/
+.github/
+.publish/
+node_modules/

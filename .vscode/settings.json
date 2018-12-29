@@ -1,0 +1,38 @@
+{
+  "files.exclude": {
+      "**/.git": true,
+      "**/node_modules": true,
+      "**/*.tgz": true,
+      "**/*.tar*": true,
+      "**/.testresults/": true,
+      "**/*.vsix": true,
+      ".publish/": true
+  },
+  "cSpell.enabled": true,
+  "cSpell.ignorePaths": [
+    "**/package-lock.json",
+    "**/node_modules/**",
+    "**/vscode-extension/**",
+    "**/.git/**",
+    ".vscode",
+    ".gitignore",
+    ".editorconfig"
+  ],
+  "cSpell.enabledLanguageIds": [
+      "asciidoc",
+      "javascript",
+      "json",
+      "markdown",
+      "plaintext",
+      "text",
+  ],
+  "cSpell.dictionaries": [
+    "companies",
+    "en_us",
+    "filetypes",
+    "misc",
+    "node",
+    "npm",
+    "softwareTerms"
+  ]
+}
