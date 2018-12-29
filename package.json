@@ -5,7 +5,7 @@
 	"version": "0.1.0",
 	"preview": true,
 	"private": true,
-	"publisher": "swellaby",
+	"publisher": "Swellaby",
 	"author": {
 		"name": "Swellaby",
 		"email": "opensource@swellaby.com",
@@ -22,9 +22,10 @@
 	"keywords": [
 		"rust",
 		"rustlang"
-	],
+  ],
+  "icon": "rust-logo-256x256-blk.png",
 	"galleryBanner": {
-		"color": "#C80000",
+		"color": "#18bc9c",
 		"theme": "dark"
 	},
 	"engines": {
@@ -42,7 +43,8 @@
     "publish:vsix:windows": "vsce publish --packagePath .publish/%npm_package_name%-%npm_package_version%.vsix",
     "publish:ext": "vsce publish patch",
     "vsce:login": "vsce login swellaby",
-		"vsce": "vsce"
+    "vsce": "vsce",
+    "version:tagless": "npm --no-git-tag-version version patch"
 	},
 	"devDependencies": {
 		"@swellaby/eslint-config": "^1.1.6",
