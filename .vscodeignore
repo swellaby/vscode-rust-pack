@@ -1,6 +1,7 @@
 .vscode/**
 .vscode-test/**
 .github/
+.publish/
 .vscode/
 .testresults/
 node_modules/
@@ -11,3 +12,4 @@ test/
 .gitattributes
 .gitignore
 package-lock.json
+renovate.json
