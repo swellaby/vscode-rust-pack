@@ -23,9 +23,9 @@
 		"rust",
 		"rustlang"
 	],
-	"icon": "rust-logo-256x256-blk.png",
+	"icon": "rust-logo-128x128-blk.png",
 	"galleryBanner": {
-		"color": "#18bc9c",
+		"color": "#b7410e",
 		"theme": "dark"
 	},
 	"engines": {
