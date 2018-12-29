@@ -23,7 +23,7 @@
 		"rust",
 		"rustlang"
 	],
-	"icon": "images/rust-logo-128x128-blk.png",
+	"icon": "images/icon.png",
 	"galleryBanner": {
 		"color": "#b7410e",
 		"theme": "dark"
