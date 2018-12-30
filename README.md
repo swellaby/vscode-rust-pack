@@ -18,7 +18,7 @@ VS Code Extension Pack for Rust development.
 Check out our [Common Extension Pack][common-ext-pack-url] that contains a couple other extensions that are useful for any type of project!
 
 ## Contributing
-Have a question, feature request, or need to report a bug? Open an issue [here][open-issue-url]!
+Have an extension request, question, or need to report a bug? Open an issue [here][open-issue-url]!
 
 ## License
 MIT - see license details [here][license-url] 
@@ -37,4 +37,3 @@ MIT - see license details [here][license-url]
 [rust-ext-url]: https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
 [crates-ext-url]: https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates
 [better-toml-ext-url]: https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml
-
