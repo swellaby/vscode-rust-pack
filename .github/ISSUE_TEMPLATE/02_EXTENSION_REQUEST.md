@@ -14,10 +14,8 @@ about: Suggest/request a new extension to be included in the Rust Extension Pack
 ## Value
 <!-- Clearly and succinctly explain the reasons for adding the extension to the pack, what value it provides, etc. -->
 
-### Similar Extensions
+## Similar Extensions
 <!-- If there are other similar extensions, then provide the names of those extensions and links in this section. For example:
   * [Similar Extension #1 Name](https://marketplace.visualstudio.com/items?itemName=foo.similar)
   * [Similar Extension #2 Name](https://marketplace.visualstudio.com/items?itemName=bar.similar)
 -->
-
-
