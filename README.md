@@ -21,7 +21,7 @@ Have a question, feature request, or need to report a bug? Open an issue [here][
 ## License
 MIT - see license details [here][license-url] 
 
-[license-url]: ./LICENSE
+[license-url]: https://github.com/swellaby/vscode-rust-pack/blob/master/LICENSE
 [license-badge]: https://img.shields.io/github/license/swellaby/vscode-rust-pack.svg?style=flat-square&colorB=blue
 [ci-badge]: https://img.shields.io/azure-devops/build/swellaby/opensource/46/master.svg?style=flat-square
 [ci-pipeline-url]: https://dev.azure.com/swellaby/OpenSource/_build?definitionId=46
