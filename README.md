@@ -15,7 +15,7 @@ VS Code Extension Pack for Rust development.
 * [crates][crates-ext-url]
 * [Better TOML][better-toml-ext-url]
 
-Check out our [Common Extension Pack][common-ext-pack-url] that contains a couple other extensions that are useful!
+Check out our [Common Extension Pack][common-ext-pack-url] that contains a couple other extensions that are useful for any type of project!
 
 ## Contributing
 Have a question, feature request, or need to report a bug? Open an issue [here][open-issue-url]!
