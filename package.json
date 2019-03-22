@@ -32,8 +32,9 @@
 		"vscode": "^1.0.0"
 	},
 	"scripts": {
-		"test": "mocha --opts-file test/mocha.opts",
-		"lint": "eslint \"**/*.js\"",
+    "pretest": "rimraf .testresults",
+		"test": "mocha",
+    "lint": "eslint \"**/*.js\"",
 		"clean": "rimraf .testresults/ .publish/**/*",
 		"package:vsix": "vsce package -o .publish/$npm_package_name-$npm_package_version.vsix",
 		"prepackage:vsix": "mkdirp .publish",
@@ -44,16 +45,20 @@
 		"publish:ext": "vsce publish patch",
 		"vsce:login": "vsce login swellaby",
 		"vsce": "vsce",
-		"version:tagless": "npm --no-git-tag-version version patch"
+		"version:tagless": "npm --no-git-tag-version version patch",
+		"dev:setup": "npm i && npm test && npm run lint",
+		"dev:reset": "npm run clean && node -e \"require('rimraf').sync('node_modules');\" && npm run dev:setup"
 	},
 	"devDependencies": {
 		"@swellaby/eslint-config": "^1.1.6",
 		"chai": "^4.2.0",
-		"eslint": "^5.11.1",
+		"eslint": "^5.15.3",
 		"mkdirp": "^0.5.1",
-		"mocha": "^5.2.0",
+		"mocha": "^6.0.2",
 		"mocha-multi": "^1.0.1",
-		"vsce": "^1.54.0"
+		"mocha-multi-reporters": "^1.1.7",
+		"rimraf": "^2.6.3",
+		"vsce": "^1.58.0"
 	},
 	"license": "MIT",
 	"bugs": {
