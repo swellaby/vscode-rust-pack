@@ -4,10 +4,10 @@ VS Code Extension Pack for Rust development.
 [![Version Badge][version-badge]][ext-url]
 [![Installs Badge][installs-badge]][ext-url]
 [![Rating Badge][rating-badge]][ext-url]
+[![License Badge][license-badge]][license-url]  
 
 [![CI Build Badge][ci-badge]][ci-pipeline-url]
 [![Test Results Badge][tests-badge]][ci-pipeline-url]
-[![License Badge][license-badge]][license-url]
 
 ## Included Extensions
 
@@ -24,7 +24,8 @@ Have an extension request, question, or need to report a bug? Open an issue [her
 MIT - see license details [here][license-url] 
 
 [license-url]: https://github.com/swellaby/vscode-rust-pack/blob/master/LICENSE
-[license-badge]: https://img.shields.io/github/license/swellaby/vscode-rust-pack.svg?style=flat-square
+[contributing-doc-url]: https://github.com/swellaby/vscode-rust-pack/blob/master/.github/CONTRIBUTING.md
+[license-badge]: https://img.shields.io/github/license/swellaby/vscode-rust-pack.svg?style=flat-square&color=blue
 [ci-badge]: https://img.shields.io/azure-devops/build/swellaby/opensource/46/master.svg?style=flat-square
 [ci-pipeline-url]: https://dev.azure.com/swellaby/OpenSource/_build?definitionId=46
 [tests-badge]: https://img.shields.io/azure-devops/tests/swellaby/opensource/46/master.svg?style=flat-square
