@@ -52,13 +52,13 @@
 	"devDependencies": {
 		"@swellaby/eslint-config": "^1.1.6",
 		"chai": "^4.2.0",
-		"eslint": "^5.15.3",
+		"eslint": "^5.16.0",
 		"mkdirp": "^0.5.1",
 		"mocha": "^6.0.2",
 		"mocha-multi": "^1.0.1",
 		"mocha-multi-reporters": "^1.1.7",
 		"rimraf": "^2.6.3",
-		"vsce": "^1.58.0"
+		"vsce": "^1.59.0"
 	},
 	"license": "MIT",
 	"bugs": {
