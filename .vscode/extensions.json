@@ -1,10 +1,8 @@
 {
   "recommendations": [
+    "swellaby.common-pack",
+    "swellaby.node-pack",
     "ms-devlabs.extension-manifest-editor",
-    "dbaeumer.vscode-eslint",
-    "christian-kohler.path-intellisense",
-    "eamodio.gitlens",
-    "pflannery.vscode-versionlens",
     "hbenl.vscode-test-explorer",
     "hbenl.vscode-mocha-test-adapter"
   ]
