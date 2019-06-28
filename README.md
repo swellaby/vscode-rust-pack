@@ -1,5 +1,5 @@
 # Rust Extension Pack
-VS Code Extension Pack for Rust development. 
+Minimalist VS Code Extension Pack for Rust development. 
 
 [![Version Badge][version-badge]][ext-url]
 [![Installs Badge][installs-badge]][ext-url]
