@@ -56,7 +56,7 @@
 		"mkdirp": "^0.5.1",
 		"mocha": "^6.1.4",
 		"mocha-multi-reporters": "^1.1.7",
-		"rimraf": "^2.6.3",
+		"rimraf": "^3.0.0",
 		"vsce": "^1.64.0"
 	},
 	"license": "MIT",
