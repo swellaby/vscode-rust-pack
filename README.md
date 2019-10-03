@@ -21,6 +21,11 @@ Minimalist VS Code Extension Pack for Rust development.
 
 Check out our [Common Extension Pack][common-ext-pack-url] that contains a couple other extensions that are useful for any type of project!
 
+## Other Projects
+Here's some of our other Rust-related projects you may want to check out!
+
+* [rusty-hook][rusty-hook-crate-url] - A git hook utility for your Rust projects
+
 ## Contributing
 Have an extension request, question, or need to report a bug? Open an issue [here][open-issue-url]!
 
@@ -33,7 +38,7 @@ MIT - see license details [here][license-url]
 [ci-badge]: https://img.shields.io/azure-devops/build/swellaby/opensource/46/master.svg?style=flat-square
 [ci-pipeline-url]: https://dev.azure.com/swellaby/OpenSource/_build?definitionId=46
 [tests-badge]: https://img.shields.io/azure-devops/tests/swellaby/opensource/46/master.svg?style=flat-square
-[installs-badge]: https://img.shields.io/vscode-marketplace/d/swellaby.rust-pack.svg?style=flat-square
+[installs-badge]: https://img.shields.io/vscode-marketplace/i/swellaby.rust-pack.svg?style=flat-square
 [version-badge]: https://img.shields.io/vscode-marketplace/v/swellaby.rust-pack.svg?style=flat-square&label=marketplace
 [rating-badge]: https://img.shields.io/vscode-marketplace/r/swellaby.rust-pack.svg?style=flat-square
 [ext-url]: https://marketplace.visualstudio.com/items?itemName=swellaby.rust-pack
@@ -42,3 +47,4 @@ MIT - see license details [here][license-url]
 [rust-ext-url]: https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
 [crates-ext-url]: https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates
 [better-toml-ext-url]: https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml
+[rusty-hook-crate-url]: https://crates.io/crates/rusty-hook
