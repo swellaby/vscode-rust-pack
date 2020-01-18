@@ -54,7 +54,7 @@
 		"chai": "^4.2.0",
 		"eslint": "^6.0.1",
 		"mkdirp": "^0.5.1",
-		"mocha": "^6.1.4",
+		"mocha": "^7.0.0",
 		"mocha-multi-reporters": "^1.1.7",
 		"rimraf": "^3.0.0",
 		"vsce": "^1.64.0"
