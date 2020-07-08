@@ -1,36 +1,41 @@
 # Rust Extension Pack
-Minimalist VS Code Extension Pack for Rust development. 
+
+Minimalist VS Code Extension Pack for Rust development.
 
 [![Version Badge][version-badge]][ext-url]
 [![Installs Badge][installs-badge]][ext-url]
 [![Rating Badge][rating-badge]][ext-url]
-[![License Badge][license-badge]][license-url]  
+[![License Badge][license-badge]][license-url]
 
 [![CI Build Badge][ci-badge]][ci-pipeline-url]
 [![Test Results Badge][tests-badge]][ci-pipeline-url]
 
 ## Included Extensions
 
-* [Rust (RLS)][rust-ext-url]
-* [crates][crates-ext-url]
-* [Better TOML][better-toml-ext-url]
+- [Rust (RLS)][rust-ext-url]
+- [crates][crates-ext-url]
+- [Better TOML][better-toml-ext-url]
 
 ### Potential Extension Additions
-* [Rust Test Explorer](https://marketplace.visualstudio.com/items?itemName=swellaby.vscode-rust-test-adapter)
-  * More info [here](https://github.com/swellaby/vscode-rust-pack/issues/9)
+
+- [Rust Test Explorer](https://marketplace.visualstudio.com/items?itemName=swellaby.vscode-rust-test-adapter)
+  - More info [here](https://github.com/swellaby/vscode-rust-pack/issues/9)
 
 Check out our [Common Extension Pack][common-ext-pack-url] that contains a couple other extensions that are useful for any type of project!
 
 ## Other Projects
+
 Here's some of our other Rust-related projects you may want to check out!
 
-* [rusty-hook][rusty-hook-crate-url] - A git hook utility for your Rust projects
+- [rusty-hook][rusty-hook-crate-url] - A git hook utility for your Rust projects
 
 ## Contributing
+
 Have an extension request, question, or need to report a bug? Open an issue [here][open-issue-url]!
 
 ## License
-MIT - see license details [here][license-url] 
+
+MIT - see license details [here][license-url]
 
 [license-url]: https://github.com/swellaby/vscode-rust-pack/blob/master/LICENSE
 [contributing-doc-url]: https://github.com/swellaby/vscode-rust-pack/blob/master/.github/CONTRIBUTING.md

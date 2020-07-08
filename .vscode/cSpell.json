@@ -15,7 +15,5 @@
     "vsix",
     "xunit"
   ],
-  "flagWords": [
-
-  ]
+  "flagWords": []
 }

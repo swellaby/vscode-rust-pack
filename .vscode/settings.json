@@ -1,12 +1,12 @@
 {
   "files.exclude": {
-      "**/.git": true,
-      "**/node_modules": true,
-      "**/*.tgz": true,
-      "**/*.tar*": true,
-      "**/.testresults/": true,
-      "**/*.vsix": true,
-      ".publish/": true
+    "**/.git": true,
+    "**/node_modules": true,
+    "**/*.tgz": true,
+    "**/*.tar*": true,
+    "**/.testresults/": true,
+    "**/*.vsix": true,
+    ".publish/": true
   },
   "cSpell.enabled": true,
   "cSpell.ignorePaths": [
@@ -19,12 +19,12 @@
     ".editorconfig"
   ],
   "cSpell.enabledLanguageIds": [
-      "asciidoc",
-      "javascript",
-      "json",
-      "markdown",
-      "plaintext",
-      "text",
+    "asciidoc",
+    "javascript",
+    "json",
+    "markdown",
+    "plaintext",
+    "text"
   ],
   "cSpell.dictionaries": [
     "companies",
