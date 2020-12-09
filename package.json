@@ -17,7 +17,8 @@
   "extensionPack": [
     "rust-lang.rust",
     "serayuzgur.crates",
-    "bungcip.better-toml"
+    "bungcip.better-toml",
+    "TabNine.tabnine-vscode"
   ],
   "keywords": [
     "rust",

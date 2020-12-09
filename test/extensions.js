@@ -7,7 +7,7 @@ suite('Included Extensions Tests', () => {
     const extensions = manifest.extensionPack;
 
     test('Should have the correct number of extensions', () => {
-        assert.deepEqual(extensions.length, 3);
+        assert.deepEqual(extensions.length, 4);
     });
 
     test('Should include RLS extension', () => {
@@ -20,5 +20,8 @@ suite('Included Extensions Tests', () => {
 
     test('Should include better TOML extension', () => {
         assert.isTrue(extensions.includes('bungcip.better-toml'));
+    });
+    test('Should include Tabnine extension', () => {
+        assert.isTrue(extensions.includes('TabNine.tabnine-vscode'));
     });
 });

@@ -15,6 +15,7 @@ Minimalist VS Code Extension Pack for Rust development.
 - [Rust (RLS)][rust-ext-url]
 - [crates][crates-ext-url]
 - [Better TOML][better-toml-ext-url]
+- [Tabnine][tabnine-ext-url]
 
 ### Potential Extension Additions
 
@@ -53,3 +54,4 @@ MIT - see license details [here][license-url]
 [crates-ext-url]: https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates
 [better-toml-ext-url]: https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml
 [rusty-hook-crate-url]: https://crates.io/crates/rusty-hook
+[tabnine-ext-url]: https://marketplace.visualstudio.com/items?itemName=Tabnine.tabnine-vscode
