@@ -12,7 +12,7 @@ Minimalist VS Code Extension Pack for Rust development.
 
 ## Included Extensions
 
-- [Rust (RLS)][rust-ext-url]
+- [Rust (rust-analyzer)][rust-ext-url]
 - [crates][crates-ext-url]
 - [Better TOML][better-toml-ext-url]
 
@@ -49,7 +49,7 @@ MIT - see license details [here][license-url]
 [ext-url]: https://marketplace.visualstudio.com/items?itemName=swellaby.rust-pack
 [common-ext-pack-url]: https://marketplace.visualstudio.com/items?itemName=swellaby.common-pack
 [open-issue-url]: https://github.com/swellaby/vscode-rust-pack/issues/new/choose
-[rust-ext-url]: https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
+[rust-ext-url]: https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer
 [crates-ext-url]: https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates
 [better-toml-ext-url]: https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml
 [rusty-hook-crate-url]: https://crates.io/crates/rusty-hook
