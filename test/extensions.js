@@ -11,7 +11,7 @@ suite('Included Extensions Tests', () => {
     });
 
     test('Should include RLS extension', () => {
-        assert.isTrue(extensions.includes('rust-lang.rust'));
+        assert.isTrue(extensions.includes('rust-lang.rust-analyzer'));
     });
 
     test('Should include crates.io extension', () => {

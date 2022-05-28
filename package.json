@@ -2,7 +2,7 @@
   "name": "rust-pack",
   "displayName": "Rust Extension Pack",
   "description": "Extension Pack for Rust",
-  "version": "0.2.39",
+  "version": "0.3.0",
   "preview": true,
   "private": true,
   "publisher": "Swellaby",
@@ -15,7 +15,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "rust-lang.rust",
+    "rust-lang.rust-analyzer",
     "serayuzgur.crates",
     "bungcip.better-toml"
   ],
