@@ -57,7 +57,7 @@
     "eslint": "^8.16.0",
     "mkdirp": "^1.0.4",
     "mocha": "^10.0.0",
-    "mocha-multi-reporters": "^1.1.7",
+    "mocha-multi-reporters": "^1.5.1",
     "prettier": "^2.6.2",
     "rimraf": "^3.0.2",
     "vsce": "^2.9.2"
