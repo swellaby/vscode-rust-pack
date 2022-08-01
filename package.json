@@ -60,7 +60,7 @@
     "mocha-multi-reporters": "^1.5.1",
     "prettier": "^2.7.1",
     "rimraf": "^3.0.2",
-    "vsce": "^2.9.2"
+    "vsce": "^2.10.0"
   },
   "license": "MIT",
   "bugs": {
