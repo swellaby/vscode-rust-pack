@@ -53,7 +53,7 @@
   },
   "devDependencies": {
     "@swellaby/eslint-config": "^2.0.0",
-    "chai": "^4.3.6",
+    "chai": "^4.3.7",
     "eslint": "^8.31.0",
     "mkdirp": "^1.0.4",
     "mocha": "^10.2.0",
