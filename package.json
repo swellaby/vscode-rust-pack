@@ -58,7 +58,7 @@
     "mkdirp": "^1.0.4",
     "mocha": "^10.2.0",
     "mocha-multi-reporters": "^1.5.1",
-    "prettier": "^2.8.1",
+    "prettier": "^2.8.3",
     "rimraf": "^3.0.2",
     "vsce": "^2.15.0"
   },
