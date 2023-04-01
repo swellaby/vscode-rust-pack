@@ -59,7 +59,7 @@
     "mocha": "^10.2.0",
     "mocha-multi-reporters": "^1.5.1",
     "prettier": "^2.8.4",
-    "rimraf": "^4.1.2",
+    "rimraf": "^4.4.1",
     "vsce": "^2.15.0"
   },
   "license": "MIT",
