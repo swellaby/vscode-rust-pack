@@ -55,7 +55,7 @@
     "@swellaby/eslint-config": "^2.0.0",
     "chai": "^4.3.7",
     "eslint": "^8.39.0",
-    "mkdirp": "^2.1.6",
+    "mkdirp": "^3.0.1",
     "mocha": "^10.2.0",
     "mocha-multi-reporters": "^1.5.1",
     "prettier": "^2.8.8",
