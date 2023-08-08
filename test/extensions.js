@@ -18,7 +18,7 @@ suite('Included Extensions Tests', () => {
         assert.isTrue(extensions.includes('serayuzgur.crates'));
     });
 
-    test('Should include better TOML extension', () => {
-        assert.isTrue(extensions.includes('bungcip.better-toml'));
+    test('Should include Even Better TOML extension', () => {
+        assert.isTrue(extensions.includes('tamasfe.even-better-toml'));
     });
 });

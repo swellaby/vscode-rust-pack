@@ -17,7 +17,7 @@
   "extensionPack": [
     "rust-lang.rust-analyzer",
     "serayuzgur.crates",
-    "bungcip.better-toml"
+    "tamasfe.even-better-toml"
   ],
   "keywords": [
     "rust",
