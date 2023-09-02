@@ -2,7 +2,7 @@
   "name": "rust-pack",
   "displayName": "Rust Extension Pack",
   "description": "Extension Pack for Rust",
-  "version": "0.3.40",
+  "version": "0.3.41",
   "preview": true,
   "private": true,
   "publisher": "Swellaby",
